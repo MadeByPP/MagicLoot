@@ -5,3 +5,9 @@ This is a fork of the MagicLoot plugin on uMod.
 ## Differences from uMod version
 - As of 03/26 it's working!
 - This is a version that resolves compilation errors.
+
+## FAQ
+
+#### Do I need to reset my config to use this fork?
+
+No, existing configs will work.
